@@ -1,7 +1,7 @@
--- Exercises for Chapter 2: Strings
+-- Exercises for Chapter 3: Strings
 -- End of chapter exercises are in chapterExercises.hs
 
-module ExercisesCh2 where
+module ExercisesCh3 where
 -- print1.hs
 main :: IO ()
 main = putStrLn "hello world!"
